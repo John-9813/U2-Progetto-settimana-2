@@ -14,4 +14,12 @@
     }
   }
 
+  .navbar {
+    .kids-icon {
+      img {
+        max-height: 50px;
+      }
+    }
+  }
+
 @import "./bootstrap.scss";
