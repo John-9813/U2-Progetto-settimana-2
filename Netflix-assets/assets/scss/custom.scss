@@ -6,4 +6,12 @@
     width: 10%;
 }
 
+.navbar {
+    .navbar-brand {
+      img {
+        max-height: 50px;
+      }
+    }
+  }
+
 @import "./bootstrap.scss";
