@@ -6,6 +6,8 @@
     width: 10%;
 }
 
+
+
 .navbar {
     .navbar-brand {
       img {
@@ -21,5 +23,22 @@
       }
     }
   }
+
+  .mb-6 {
+    margin-bottom: 6vh;
+  }
+
+  .container-custom{
+    margin-left: 30vw;
+    margin-right: 30vw;
+  }
+
+  .custom-control-prev {
+    left: 5%;
+}
+
+.custom-control-next {
+    right: 5%;
+}
 
 @import "./bootstrap.scss";
